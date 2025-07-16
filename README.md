@@ -1,1 +1,5 @@
 # qr-for-PROTECT-COVER
+# 2025/7/16 
+# 零件号： IK01596180-PROTECT COVER
+# 生产批次号：2025070301
+# 数量：7600
